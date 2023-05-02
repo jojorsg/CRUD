@@ -1,7 +1,7 @@
 # CRUD
 Projeto de Cadastro de Clientes Simples
 
-- ADD clientes
+- Adicionar clientes
 - Consultar clientes
 - Atualizar clientes
 - Excluir clientes
